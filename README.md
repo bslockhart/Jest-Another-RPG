@@ -19,27 +19,14 @@ A simple, text-based RPG created as an introduction to Node.js, test-driven deve
 * [Submission](#Submission)
 
 ### Instructions
-1. Clone the main project then open up the project folder in your text editor.
-2. Run 'npm install' in terminal to install node_modules with all dependencies.
-3. Make sure you are in the main project folder using the 'cd' command.
-4. Then type in 'node index.js' or 'node index' to execute the application and load up the chain of prompts (questions).
-5. Answer all the prompts and once completed, your personal README.md file will be created.
-
-## Installation
-To use this application, please install: 
-```
-npm i inquirer
-```
-    
-## Usage
 After installing the required packages, use the command line to navigate to the root of the application and run `node app`.  Follow prompts to enter player name and play the RPG. 
 
+## Installation
+To use this application, please install: npm i inquirer
+
 ## Tests
-To run tests on the application, install
-```
-`npm i jest`
-```
-and run `npm run test` from the command line.
+1. To run tests on the application, install: `npm i jest`
+2. Run `npm run test` from the command line.
 
 ### Tools
 * JavaScript
