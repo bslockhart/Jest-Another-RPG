@@ -36,7 +36,7 @@ To use this application, please install: npm i inquirer
 
 ## Mock Up
 The following image shows the web application's appearance:
-![Mock Up](./assets/images/MockUp.jpg)
+![Mock Up](./assets/images/MockUp.gif)
 
 ### Submission
 * The URL of the deployed application: 
